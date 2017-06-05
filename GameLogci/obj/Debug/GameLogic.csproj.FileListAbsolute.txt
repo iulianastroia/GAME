@@ -1,0 +1,12 @@
+H:\game\GAME\GameLogci\bin\Debug\GameLogci.dll
+H:\game\GAME\GameLogci\bin\Debug\GameLogci.pdb
+H:\game\GAME\GameLogci\obj\Debug\GameLogic.csprojResolveAssemblyReference.cache
+H:\game\GAME\GameLogci\obj\Debug\GameLogci.dll
+H:\game\GAME\GameLogci\obj\Debug\GameLogci.pdb
+H:\game\GAME\bin\Debug\GameLogci.dll
+H:\game\GAME\bin\Debug\GameLogci.pdb
+C:\Users\Corina\Desktop\GAME\GAME\bin\Debug\GameLogci.dll
+C:\Users\Corina\Desktop\GAME\GAME\bin\Debug\GameLogci.pdb
+C:\Users\Corina\Desktop\GAME\GAME\GameLogci\obj\Debug\GameLogic.csprojResolveAssemblyReference.cache
+C:\Users\Corina\Desktop\GAME\GAME\GameLogci\obj\Debug\GameLogci.dll
+C:\Users\Corina\Desktop\GAME\GAME\GameLogci\obj\Debug\GameLogci.pdb
